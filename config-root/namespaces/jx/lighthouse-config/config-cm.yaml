@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - c82svin/jx3-k3s-vault
-      target_url: http://lighthouse.jx./merge/status
+      target_url: http://lighthouse.jx.10.161.10.56.nip.io/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null
